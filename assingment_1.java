@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class assingmentcheck
+class assingment_1
 {
 
     String name;
